@@ -1,0 +1,103 @@
+.hs-content .active-sec {
+    background: #81B3AB !important;
+}
+.hs-inner h2:after {
+    background: #81B3AB;
+}
+a.hs-totop-link {
+    background: #81B3AB;
+}
+.hs-inner .before-title {
+    color: #81B3AB;
+}
+.hs-menu nav .active-sec .fa {
+    background: #81B3AB;
+}
+    .hs-headline .download{
+background: #81B3AB;
+    }
+.aside1 a {
+    color: #81B3AB;
+}
+.aside1 a:hover {
+    background: #81B3AB;
+}
+.aside1 .aside-content .part1 {
+    color: #81B3AB;
+}
+#header .news-scroll span {
+    color: #81B3AB;
+}
+.tabs-left > .nav-tabs > li > a {
+    background: #81B3AB;
+}
+.tabs-left > .nav-tabs > li > a:hover, .tabs-left > .nav-tabs > li > a:focus {
+    background: #81B3AB;
+}
+.about-section .tab-pane h4 {
+    color: #81B3AB;
+}
+.resume-section .resume > li > .resume-tag {
+    background: #81B3AB;
+}
+.resume-section .resume h4 {
+    color: #81B3AB;
+}
+.bar-main-container {
+    background: #81B3AB;
+}
+.team-section #ourprocess .action-button:hover, #ourprocess .action-button:focus {
+    border: 1px solid #81B3AB;
+    color: #81B3AB;
+}
+.team-section #progressbar li.active:before,  #progressbar li.active:after{
+    background: #81B3AB;
+}
+.service-section .serv-wrap .serv-icons {
+  color: #81B3AB;
+}
+.pricing-section .pricing-table-header h3 {
+  background: #81B3AB;
+}
+.team-card-container h3 {
+    color: #81B3AB;
+}
+.team-card-container .back .social-icons a {
+    background: #81B3AB;
+}
+.work_desc .ext_link {
+    background: #81B3AB;
+}
+.work_desc .ext_link:hover {
+    color: #81B3AB;
+}
+.contact-section #contact_form .submit_btn:hover {
+    color: #81B3AB;
+    border: 1px solid #81B3AB;
+}
+.contact-section .contact_info h3 {
+    color: #81B3AB;
+}
+.pace .pace-progress {
+    background: #81B3AB;
+}
+@-webkit-keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 .1em #81B3AB;
+    }
+    100% {
+        box-shadow: 0 0 0 3em transparent;
+    }
+}
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 .1em #81B3AB;
+    }
+    100% {
+        box-shadow: 0 0 0 3em transparent;
+    }
+}
+#my-link {
+    background: #81B3AB;
+}
+
