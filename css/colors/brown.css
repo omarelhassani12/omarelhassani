@@ -1,89 +1,89 @@
 .hs-content .active-sec {
-    background: #81B3AB !important;
+    background: #81B3eb !important;
 }
 .hs-inner h2:after {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 a.hs-totop-link {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 .hs-inner .before-title {
-    color: #81B3AB;
+    color: #81B3eb;
 }
 .hs-menu nav .active-sec .fa {
-    background: #81B3AB;
+    background: #81B3eb;
 }
     .hs-headline .download{
-background: #81B3AB;
+background: #81B3eb;
     }
 .aside1 a {
-    color: #81B3AB;
+    color: #81B3eb;
 }
 .aside1 a:hover {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 .aside1 .aside-content .part1 {
-    color: #81B3AB;
+    color: #81B3eb;
 }
 #header .news-scroll span {
-    color: #81B3AB;
+    color: #81B3eb;
 }
 .tabs-left > .nav-tabs > li > a {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 .tabs-left > .nav-tabs > li > a:hover, .tabs-left > .nav-tabs > li > a:focus {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 .about-section .tab-pane h4 {
-    color: #81B3AB;
+    color: #81B3eb;
 }
 .resume-section .resume > li > .resume-tag {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 .resume-section .resume h4 {
-    color: #81B3AB;
+    color: #81B3eb;
 }
 .bar-main-container {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 .team-section #ourprocess .action-button:hover, #ourprocess .action-button:focus {
-    border: 1px solid #81B3AB;
-    color: #81B3AB;
+    border: 1px solid #81B3eb;
+    color: #81B3eb;
 }
 .team-section #progressbar li.active:before,  #progressbar li.active:after{
-    background: #81B3AB;
+    background: #81B3eb;
 }
 .service-section .serv-wrap .serv-icons {
-  color: #81B3AB;
+  color: #81B3eb;
 }
 .pricing-section .pricing-table-header h3 {
-  background: #81B3AB;
+  background: #81B3eb;
 }
 .team-card-container h3 {
-    color: #81B3AB;
+    color: #81B3eb;
 }
 .team-card-container .back .social-icons a {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 .work_desc .ext_link {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 .work_desc .ext_link:hover {
-    color: #81B3AB;
+    color: #81B3eb;
 }
 .contact-section #contact_form .submit_btn:hover {
-    color: #81B3AB;
-    border: 1px solid #81B3AB;
+    color: #81B3eb;
+    border: 1px solid #81B3eb;
 }
 .contact-section .contact_info h3 {
-    color: #81B3AB;
+    color: #81B3eb;
 }
 .pace .pace-progress {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 @-webkit-keyframes pulse {
     0% {
-        box-shadow: 0 0 0 .1em #81B3AB;
+        box-shadow: 0 0 0 .1em #81B3eb;
     }
     100% {
         box-shadow: 0 0 0 3em transparent;
@@ -91,13 +91,13 @@ background: #81B3AB;
 }
 @keyframes pulse {
     0% {
-        box-shadow: 0 0 0 .1em #81B3AB;
+        box-shadow: 0 0 0 .1em #81B3eb;
     }
     100% {
         box-shadow: 0 0 0 3em transparent;
     }
 }
 #my-link {
-    background: #81B3AB;
+    background: #81B3eb;
 }
 
